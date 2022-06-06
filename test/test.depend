@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1654509961 source:c:\users\acer\desktop\hshl online\programming connect\new folder\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+
