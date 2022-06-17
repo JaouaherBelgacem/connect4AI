@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1655070052 source:c:\users\acer\desktop\hshl online\programming connect\new folder\connectfour_jaouaher_belgacem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	"Headers.h"
+
+1655070031 c:\users\acer\desktop\hshl online\programming connect\new folder\connectfour_jaouaher_belgacem\headers.h
+
